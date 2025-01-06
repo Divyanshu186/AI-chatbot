@@ -56,9 +56,9 @@ Follow these instructions to set up the project on your local machine.
 ├── script.js          # JavaScript logic for chatbot and image processing
 ├── ai.png             # Bot image
 ├── user.png           # User image
-├── loading.           # Loading GIF
-├── submit.            # Submit button image
-├── img.               # Photo button image
+├── loading.webp       # Loading GIF
+├── submit.svg         # Submit button image
+├── img.svg            # Photo button image
 └── README.md          # Project documentation (this file)
 ```
 
