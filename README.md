@@ -54,7 +54,11 @@ Follow these instructions to set up the project on your local machine.
 ├── index.html         # Main HTML file
 ├── styles.css         # CSS for styling the chatbot interface
 ├── script.js          # JavaScript logic for chatbot and image processing
-├── assets/            # Folder containing images and other assets
+├── ai.png             # Bot image
+├── user.png           # User image
+├── loading.           # Loading GIF
+├── submit.            # Submit button image
+├── img.               # Photo button image
 └── README.md          # Project documentation (this file)
 ```
 
